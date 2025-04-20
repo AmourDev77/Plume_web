@@ -1,0 +1,54 @@
+header{
+    border: 3px black solid;
+    color: aqua;
+    position: absolute;
+}
+
+body{
+    border: 3px red solid;
+    color: blueviolet;
+    position: relative;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+footer{
+    border: 3px blue solid;
+    color: blue;
+    position: relative;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.Ajouter{
+    border: 3px lightgreen solid;
+    color: silver;
+    position: relative;
+    margin-right: 15%;
+    margin-left: 80%;
+    margin-top: 0.2%;
+}
+
+.Pseudo{
+    border: 3px green solid;
+    color: chocolate;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 0.2%;
+} 
+
+.Username{
+    border: 3px coral solid;
+    color: blueviolet;
+    margin-top: 2.5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.section{
+    display: inline-block;
+    border: 1px solid blue;
+    vertical-align: top;
+}
