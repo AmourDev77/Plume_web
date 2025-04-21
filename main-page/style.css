@@ -28,3 +28,15 @@ header{
     margin-top: 6%;
     position: absolute;
 }
+
+article{
+    border: 3px greenyellow solid;
+    margin-left: 15.5%;
+    padding: 15%;
+}
+
+section{
+    margin-left: 15.5%;
+    margin-right: 15%;
+    border: 3px yellow solid;
+}
