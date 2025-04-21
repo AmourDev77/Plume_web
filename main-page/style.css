@@ -12,3 +12,19 @@ footer{
     text-align: center;
     margin-bottom: 0px;
 }
+
+header{
+    /* color: white; */
+    /* background-color: rgb(41, 6, 137); */
+    border: 3px lightblue solid;
+    position: absolute;
+    width: 15%;
+}
+
+.MP{
+    width: 15%;
+    /* padding: 5%; */
+    border: 3px purple solid;
+    margin-top: 6%;
+    position: absolute;
+}
